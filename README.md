@@ -2,7 +2,7 @@
 
 A comprehensive fitness application with Ollama-powered AI backend and React Native frontend for personalized calisthenics workout planning and guidance.
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 ```
 ┌─────────────────────────────────────┐
@@ -26,7 +26,7 @@ A comprehensive fitness application with Ollama-powered AI backend and React Nat
 └─────────────────────────────────────┘
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 calisthenics-ai-app/
@@ -54,7 +54,7 @@ calisthenics-ai-app/
 └── README.md
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -68,7 +68,7 @@ See `backend/README.md`
 ### Mobile App Setup
 See `mobile/README.md`
 
-## ✨ Features
+##  Features
 
 - **AI-Powered Workout Plans**: Personalized routines based on fitness level
 - **Form Guidance**: Real-time coaching on proper exercise technique
@@ -77,13 +77,13 @@ See `mobile/README.md`
 - **Workout Library**: Comprehensive database of calisthenics exercises
 - **Offline Support**: Local LLM means privacy and offline capability
 
-## 🤖 Ollama Models
+##  Ollama Models
 
 Recommended models:
 - `llama3.1:8b` - Best balance of speed and quality
 - `llama3.1:70b` - Higher quality, slower
 - `mistral:7b` - Faster, good for real-time chat
 
-## 📄 License
+##  License
 
 MIT
