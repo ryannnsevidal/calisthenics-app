@@ -13,7 +13,7 @@ import {
 } from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { API_CONFIG } from '../App';
+import { API_CONFIG } from './App';
 
 const HomeScreen = ({ navigation }) => {
   const [recentWorkouts, setRecentWorkouts] = useState([]);

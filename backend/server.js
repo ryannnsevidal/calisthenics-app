@@ -1,6 +1,7 @@
 // server.js
 // Express backend server for calisthenics app
 
+require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const OllamaService = require('./ollama-service');

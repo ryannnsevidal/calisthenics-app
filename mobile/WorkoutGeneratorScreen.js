@@ -13,7 +13,7 @@ import {
   ActivityIndicator,
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { API_CONFIG } from '../App';
+import { API_CONFIG } from './App';
 
 const WorkoutGeneratorScreen = ({ navigation }) => {
   const [formData, setFormData] = useState({

@@ -17,11 +17,11 @@ import Icon from 'react-native-vector-icons/Ionicons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // Import screens (we'll create these)
-import HomeScreen from './screens/HomeScreen';
+import HomeScreen from './HomeScreen';
 import WorkoutScreen from './screens/WorkoutScreen';
-import ChatScreen from './screens/ChatScreen';
+import ChatScreen from './ChatScreen';
 import ProfileScreen from './screens/ProfileScreen';
-import WorkoutGeneratorScreen from './screens/WorkoutGeneratorScreen';
+import WorkoutGeneratorScreen from './WorkoutGeneratorScreen';
 import ExerciseDetailScreen from './screens/ExerciseDetailScreen';
 
 const Tab = createBottomTabNavigator();
